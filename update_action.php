@@ -3,7 +3,7 @@
  		<link rel = "stylesheet" href = "style.css">
   		<title>WEB-site of BD "Apteka" </title>
   		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- 	</head>
+ 	</head> 
  	<body link="red" vlink="white">
  		<table width="100%" cellspacing="3" border="4" style="font-size:32px;">
     		<TR>
